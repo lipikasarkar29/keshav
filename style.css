@@ -1,0 +1,16 @@
+h1{
+    color:cyan
+}
+p{
+    font-size: 15px;
+    color: whitesmoke;
+}
+img{
+    float:right
+}
+
+body{
+    background-image: url("images/helping.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
